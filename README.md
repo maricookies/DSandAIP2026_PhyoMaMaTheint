@@ -1,2 +1,2 @@
-# DSandAIP2026-_PhyoMaMaTheint
+# DSandAIP2026_PhyoMaMaTheint
 Final Dissertation Project
