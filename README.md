@@ -150,9 +150,9 @@ This project was produced for academic assessment purposes at the University of 
 
 
 👤 Author
-Phyo Ma Ma Theint
-Student Number: 24044014
-Module: UFCEKP-30-3 — Data Science and AI Individual Project
-University of the West of England, Bristol
+Phyo Ma Ma Theint  
+Student Number: 24044014  
+Module: UFCEKP-30-3 — Data Science and AI Individual Project  
+University of the West of England, Bristol  
 April 2026
 
