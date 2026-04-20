@@ -2,13 +2,9 @@
 Predicting, Analysing, and Explaining Customer Churn in Telecom Services  
 
 Phyo Ma Ma Theint  
-
 Student Number: 24044014  
-
 UFCEKP-30-3 — Data Science and AI Individual Project  
-
 UWE Bristol  
-
 April 2026
 
 
