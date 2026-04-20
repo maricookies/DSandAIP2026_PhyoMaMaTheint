@@ -131,10 +131,15 @@ File
 
 📚 Key References
 Chawla, N.V. et al. (2002) SMOTE. Journal of Artificial Intelligence Research, 16, pp. 321–357.
+
 Fernandez, A. et al. (2018) SMOTE for learning from imbalanced data. Journal of Artificial Intelligence Research, 61, pp. 863–905.
+
 Lundberg, S.M. and Lee, S.I. (2017) A unified approach to interpreting model predictions. NeurIPS, 30.
+
 Ribeiro, M.T., Singh, S. and Guestrin, C. (2016) Why should I trust you? KDD 2016, pp. 1135–1144.
+
 Shwartz-Ziv, R. and Armon, A. (2022) Tabular data: Deep learning is not all you need. Information Fusion, 81, pp. 84–90.
+
 Verbeke, W. et al. (2012) New insights into churn prediction. European Journal of Operational Research, 218(1), pp. 211–229.
 
 Full reference list available in the project report: DSandAIP2026_PhyoMaMaTheint.pdf
