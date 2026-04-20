@@ -76,36 +76,17 @@ jupyter lab telecom_churn_analysis.ipynb
 📦 Dependencies
 All packages are listed in requirements.txt. Key libraries:
 
-Package
-Version
-Purpose
-pandas
-≥ 1.5.0
-Data loading and manipulation
-numpy
-≥ 1.23.0
-Numerical computation
-matplotlib
-≥ 3.6.0
-Visualisation
-seaborn
-≥ 0.12.0
-Statistical charts
-scikit-learn
-≥ 1.2.0
-ML models, preprocessing, evaluation
-imbalanced-learn
-≥ 0.10.0
-SMOTE oversampling
-lime
-≥ 0.2.0
-Local Interpretable Model-agnostic Explanations
-shap
-≥ 0.41.0
-SHapley Additive exPlanations
-plotly
-≥ 5.11.0
-Interactive visualisations
+| Package           | Version   | Purpose                                      |
+|------------------|----------|----------------------------------------------|
+| pandas           | ≥ 1.5.0  | Data loading and manipulation                |
+| numpy            | ≥ 1.23.0 | Numerical computation                        |
+| matplotlib       | ≥ 3.6.0  | Visualisation                                |
+| seaborn          | ≥ 0.12.0 | Statistical charts                           |
+| scikit-learn     | ≥ 1.2.0  | ML models, preprocessing, evaluation         |
+| imbalanced-learn | ≥ 0.10.0 | SMOTE oversampling                           |
+| lime             | ≥ 0.2.0  | Local Interpretable Model-agnostic Explanations |
+| shap             | ≥ 0.41.0 | SHapley Additive exPlanations                |
+| plotly           | ≥ 5.11.0 | Interactive visualisations     
 
 
 Install all at once:
