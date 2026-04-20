@@ -103,45 +103,27 @@ Open telecom_churn_analysis.ipynb and run all cells top-to-bottom (Kernel → Re
 After running all cells, the following files are saved in the working directory:
 
 File
-Description
-customers_with_churn_scores.csv
-All 7,043 customers with ChurnProbability, RiskCategory, and Actual_Churn
-churn_distribution.png
-Pie and bar chart of overall churn balance
-churn_demographics.png
-Churn rates by gender, senior status, partner, dependents, tenure group, charge group
-churn_contract_payment.png
-Churn rates by contract type and payment method
-numeric_distributions.png
-Overlapping density histograms for tenure, charges, and total charges
-correlation_heatmap.png
-Feature correlation matrix
-services_heatmap.png
-Churn rate by internet service add-on
-services_churn.png
-Churn rate and count by number of services
-kmeans_elbow.png
-Elbow method for optimal k
-customer_segments.png
-PCA projection of customer clusters
-cluster_churn_rates.png
-Churn rate per segment
-model_comparison.png
-Side-by-side bar chart of all 5 metrics across all 5 models
-roc_curves.png
-ROC curves with AUC scores for all models
-confusion_matrices.png
-Confusion matrices for all 5 models
-feature_importance.png
-Permutation importance for Logistic Regression
-lime_explanation.png
-LIME local explanation for high-confidence churner
-shap_summary_bar.png
-SHAP global feature importance bar chart
-shap_beeswarm.png
-SHAP beeswarm plot showing direction and magnitude
-churn_risk_distribution.png
-Probability histogram and risk tier pie chart
+| File Name                         | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| customers_with_churn_scores.csv  | Dataset of 7,043 customers with ChurnProbability, RiskCategory, and Actual_Churn |
+| churn_distribution.png           | Pie and bar chart showing overall churn balance                            |
+| churn_demographics.png           | Churn rates by gender, senior status, partner, dependents, tenure group, and charge group |
+| churn_contract_payment.png       | Churn rates by contract type and payment method                            |
+| numeric_distributions.png        | Density histograms for tenure, monthly charges, and total charges          |
+| correlation_heatmap.png          | Feature correlation matrix                                                 |
+| services_heatmap.png             | Churn rate by internet service add-ons                                     |
+| services_churn.png               | Churn rate and count by number of services                                 |
+| kmeans_elbow.png                 | Elbow method for determining optimal number of clusters (k)                |
+| customer_segments.png            | PCA projection of customer clusters                                        |
+| cluster_churn_rates.png          | Churn rate per customer segment                                            |
+| model_comparison.png             | Comparison of 5 evaluation metrics across models                           |
+| roc_curves.png                   | ROC curves with AUC scores for all models                                  |
+| confusion_matrices.png           | Confusion matrices for all models                                          |
+| feature_importance.png           | Permutation feature importance for Logistic Regression                     |
+| lime_explanation.png             | LIME explanation for a high-confidence churn prediction                    |
+| shap_summary_bar.png             | SHAP global feature importance (bar chart)                                 |
+| shap_beeswarm.png                | SHAP beeswarm plot showing feature impact                                  |
+| churn_risk_distribution.png      | Probability distribution and risk tier breakdown                           |
 
 
 
